@@ -9,3 +9,6 @@ add_executable(List02_zativ01.c List02/zativ01.c)
 add_executable(List02_zativ02.c List02/zativ02.c)
 add_executable(List02_zativ03.c List02/zativ03.c)
 add_executable(List02_zativ04.c List02/zativ04.c)
+add_executable(List02_zativ05.c List02/zativ05.c)
+add_executable(List02_zativ06.c List02/zativ06.c)
+
