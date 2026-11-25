@@ -42,4 +42,6 @@ int main(void) {
 
     /////////////////////////////////////////////////
     printf("Se houver um ponteiro para um ponteiro para a variavel, alterar o valor de qualqer um irá alterar o valor de todos. Seus endereços nao mudam, podendo apenas mudar o endereço o qual ele está apontando");
+
+    return 0;
 }
